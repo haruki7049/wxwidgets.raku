@@ -1,0 +1,20 @@
+{
+  "name": "wxwidgets.raku",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "",
+  "source-url": "https://github.com/haruki7049/wxwidgets.raku",
+  "auth": "github:haruki7049",
+  "authors": [
+    "haruki7049"
+  ],
+  "build-depends": [],
+  "depends": [],
+  "test-depends": [],
+  "perl": "6.d",
+  "provides": {
+    "WxWidgets": "lib/WxWidgets.rakumod",
+  },
+  "resources": [],
+  "tags": []
+}
